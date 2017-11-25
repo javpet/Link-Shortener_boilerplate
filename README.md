@@ -1,9 +1,9 @@
 # Link-Shortener_boilerplate
 Boilerplate Meteor JS code for link shortening
 
+## Intro
 I wanted to create a simple boilerplate to create link shortening service, which I can use to upgrade server with adding more features and branding.
 
-----------------------------------------------
 ## Dependencies
 
 ### Meteor
